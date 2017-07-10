@@ -1,0 +1,8 @@
+How to compile -> $make
+
+How to use -> $./c2c < <input file>
+
+How to open result file -> text editer or $cat tree.txt
+										  $cat table.txt
+
+How to clean -> $make clean
